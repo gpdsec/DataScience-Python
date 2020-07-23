@@ -1,1 +1,1 @@
-Due to sorteg of possitive cough sounds this prosect is halted for while
+Due to shortage of possitive cough sounds this project is halted for while
