@@ -15,13 +15,20 @@
  </br>
  </p>
  
- ## Contents
-
- 1. AI (Artificial intelligence)
-    1.1 Audio (Under Construction)
-    1.2 Computer Vision
-       1.2.1 CNN
-            1.2.1.1 [CIFAR 10](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/CIFAR-10)
-            1.2.1.2 [Fahion MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/Fashion%20MNIST)
 
 
+
+#### Table of contents
+=================
+
+<!--ts-->
+   * [AI](https://github.com/gpdsec/DataScience-Python/tree/master/AI)
+      * [Computer Vision](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision)
+          * [CNN](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN)
+             * [CIFAR 10](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/CIFAR-10)
+             * [Fahion MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/Fashion%20MNIST)
+             * [MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/MNIST)
+      * [NLP](https://github.com/gpdsec/DataScience-Python/tree/master/AI/NLP)
+      * [Regrassion](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Regrassion)
+      
+<!--te-->
