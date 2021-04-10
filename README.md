@@ -10,7 +10,7 @@
   I do lack artistic tallent so pardon me for that :grin:
  </br>
  <br> 
- This reprository has few of opensource projects that I did in my free time when I had nothing better to do.
+ This reprository has few of opensource projects
  
  </br>
  </p>
@@ -24,13 +24,15 @@ _________________________
 <!--ts-->
    * [AI](https://github.com/gpdsec/DataScience-Python/tree/master/AI)
       * [Computer Vision](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision)
-          * [CNN](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN)
-             * [CIFAR 10](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/CIFAR-10)
-             * [Fahion MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/Fashion%20MNIST)
-             * [MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/MNIST)
-          * [Transfer Learning](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/Transfer%20Learning)
-             * [Food 101](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/Transfer%20Learning/Food%20101)
+           * [CNN](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN)
+               * [CIFAR 10](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/CIFAR-10)
+               * [Fahion MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/Fashion%20MNIST)
+               * [MNIST](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/CNN/MNIST)
+           * [Transfer Learning](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/Transfer%20Learning)
+               * [Food 101](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Computer%20Vision/Transfer%20Learning/Food%20101)
       * [NLP](https://github.com/gpdsec/DataScience-Python/tree/master/AI/NLP)
+           * [Headlines Sarcasm Detection](https://github.com/gpdsec/DataScience-Python/tree/master/AI/NLP/Headlines%20Sarcasm%20Detection)
+               * [DNN](https://github.com/gpdsec/DataScience-Python/tree/master/AI/NLP/Headlines%20Sarcasm%20Detection/DNN) 
       * [Regrassion](https://github.com/gpdsec/DataScience-Python/tree/master/AI/Regrassion)
       
 <!--te-->
