@@ -30,7 +30,7 @@ _________________________
 ______________________________
 
 **Note -**
-For More Information, Look at the source code of respective the individual  projects
+For More Information, Look at the source code of respective the projects
 
 
 
